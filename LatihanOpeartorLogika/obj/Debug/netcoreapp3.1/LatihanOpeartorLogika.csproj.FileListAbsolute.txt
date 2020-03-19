@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\bin\Debug\netcoreapp3.1\LatihanOpeartorLogika.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOpeartorLogika\obj\Debug\netcoreapp3.1\LatihanOpeartorLogika.genruntimeconfig.cache

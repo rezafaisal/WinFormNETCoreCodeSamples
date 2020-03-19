@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.genruntimeconfig.cache

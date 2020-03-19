@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\bin\Debug\netcoreapp3.1\LatihanOperatorAritmatika.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorAritmatika\obj\Debug\netcoreapp3.1\LatihanOperatorAritmatika.genruntimeconfig.cache
