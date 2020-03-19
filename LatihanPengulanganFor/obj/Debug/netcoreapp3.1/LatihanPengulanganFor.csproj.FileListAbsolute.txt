@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\bin\Debug\netcoreapp3.1\LatihanPengulanganFor.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPengulanganFor\obj\Debug\netcoreapp3.1\LatihanPengulanganFor.genruntimeconfig.cache

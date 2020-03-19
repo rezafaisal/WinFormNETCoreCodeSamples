@@ -1,0 +1,12 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\bin\Debug\netcoreapp3.1\LatihanOperatorOrder.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanOperatorOrder\obj\Debug\netcoreapp3.1\LatihanOperatorOrder.genruntimeconfig.cache
