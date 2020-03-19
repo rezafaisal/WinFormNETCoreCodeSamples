@@ -1,0 +1,12 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\bin\Debug\netcoreapp3.1\LatihanStatement.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanStatement\obj\Debug\netcoreapp3.1\LatihanStatement.genruntimeconfig.cache

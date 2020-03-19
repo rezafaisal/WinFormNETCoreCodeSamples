@@ -1,0 +1,12 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\bin\Debug\netcoreapp3.1\WinFormCS.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\WinFormCS\obj\Debug\netcoreapp3.1\WinFormCS.genruntimeconfig.cache
