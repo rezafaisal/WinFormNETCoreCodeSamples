@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\bin\Debug\netcoreapp3.1\LatihanPercabanganSwitch.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\LatihanPercabanganSwitch\obj\Debug\netcoreapp3.1\LatihanPercabanganSwitch.genruntimeconfig.cache
