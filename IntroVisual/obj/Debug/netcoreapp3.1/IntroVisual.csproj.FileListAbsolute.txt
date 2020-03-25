@@ -1,0 +1,16 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\bin\Debug\netcoreapp3.1\IntroVisual.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.Form1.resources
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.csproj.GenerateResource.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.genruntimeconfig.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroVisual\obj\Debug\netcoreapp3.1\IntroVisual.MainForm.resources

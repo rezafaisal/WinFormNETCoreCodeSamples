@@ -1,0 +1,15 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\bin\Debug\netcoreapp3.1\SimpleQuiz.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.Form1.resources
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.csproj.GenerateResource.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\SimpleQuiz\obj\Debug\netcoreapp3.1\SimpleQuiz.genruntimeconfig.cache
