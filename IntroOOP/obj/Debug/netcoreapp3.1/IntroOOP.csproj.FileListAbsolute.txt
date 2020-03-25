@@ -1,0 +1,13 @@
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.exe
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.deps.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.runtimeconfig.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.runtimeconfig.dev.json
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\bin\Debug\netcoreapp3.1\IntroOOP.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.csprojAssemblyReference.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.AssemblyInfo.cs
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.dll
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.pdb
+D:\Data\My Books\INDC - Windows Forms - Pembangun Aplikasi Windows dengan NET Core 3.1\code\WinFormSolution\IntroOOP\obj\Debug\netcoreapp3.1\IntroOOP.genruntimeconfig.cache
